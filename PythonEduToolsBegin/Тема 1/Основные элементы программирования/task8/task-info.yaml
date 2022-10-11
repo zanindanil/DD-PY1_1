@@ -1,0 +1,39 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 81
+    placeholder_text: 'VarName = "test"  # TODO переименовать название переменной
+      в соответствии с PEP8'
+    initial_state:
+      length: 80
+      offset: 0
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: u9bi6xQv3UmnNZaViJD5vvscDgVQcmEh6s5AF6fPvyY=
+  - offset: 125
+    length: 76
+    placeholder_text: |-
+      CONST_VAR = "new_value"  # TODO убрать перезапись константы
+      print(CONST_VAR)
+    initial_state:
+      length: 76
+      offset: 124
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: aOjPAz21uHuiY4UGEzABxl++SybCxwQe+WtyvApxBRc=
+  encrypted_text: 3s774xGCh7OuaQ4IxVUU5afXK/lSu6CXTjBAog3ISfcGThnklMWwK030V0hDJJLL1u5YWddd/uLnjfMuTG2DhBKJnJkFibGfsBeYwEvYLFM84ey5cCNMmtXl8/qgfOC/6rG1t3ho0Nd2bKDqs+5myNkJVEOj0+op/jaKTRt3Iwt1Qu3eh/9rwgE73aTHQHsTxR5jM8kfnhVArfw6PgITlVaLzNjZ8aHwMV6Kxh2TKH63gCl3dE/vteSUFrXB8xaCRcR/D31MF+yWwwhDluj0Z6WQKp50hRx+UcCaUvZeF8A3wSELUSA6IhQb/59Y9Jt9EQveQtEeusjS62MaOevoYOF2ckcB0UEsXA2vMuByMqw=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  time: Tue, 11 Oct 2022 16:50:21 UTC
+record: -1
+post_submission_on_open: true

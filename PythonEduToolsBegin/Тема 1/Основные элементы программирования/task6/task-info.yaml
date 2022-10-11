@@ -1,0 +1,30 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 53
+    length: 96
+    placeholder_text: 'False = "Hello, World!"  # TODO исправьте название переменной,
+      чтобы её можно было использовать'
+    initial_state:
+      length: 95
+      offset: 53
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: /aw8ZK2oALyzGSTAuFbfSfGxhgZo/XHwGIzicXPgpSQ=
+  encrypted_text: 9jm0MGJKCItQwI9ijfJ8g5KsNzZiRvtW4yckWJmKksKzpNud5Ay2gptvinzHjavQHiFQDPipzL2vvbM04E3k6wtfAwZyyNtZa5mpyU96N63FL7xpPanYns9c0Mt4VyAeDt5JpHlJ8w2Q0/7aCgZO784wD8LuS5grB4pLrwjg5lz10IrsvIKp7h1x3/a3gL0GCehoDQ117LHOJmew8Lt6q9yxN4uXpDaiAZJ5JrMTZAagv8MW+l/rFH6PlgJwnB/yeuqmorEpB+nWhPlb6XUID9CVoxCd3pb/qQ8rA9OccHzNiTa4kxPKbj79KwoQIV5R
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: img.png
+  visible: false
+  learner_created: false
+status: Solved
+feedback:
+  time: Tue, 11 Oct 2022 16:45:26 UTC
+record: -1
+post_submission_on_open: true

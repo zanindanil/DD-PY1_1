@@ -1,0 +1,11 @@
+type: marketplace
+title: PythonEduToolsBegin
+language: Russian
+summary: Тестовый курс для знакомства с плагином EduTools
+programming_language: Python
+environment: unittest
+content:
+- Тема 1
+mode: Study
+vendor:
+  name: Алексей Первушин

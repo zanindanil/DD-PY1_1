@@ -1,0 +1,36 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 41
+    length: 14
+    placeholder_text: '...)  # TODO исправить, чтобы задание было выполнено верно'
+    initial_state:
+      length: 58
+      offset: 41
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 9gdmCzozYAccw4vQZ1IMgQ==
+  encrypted_text: +T0U/d1iVqQYA8ozsNqyYXFImgTiyn9wUyBCrBu/LlxcL0eGPAUZaYV6Cc+g9vi/deo62L7D/udcY7IoQPSSZz0F89NUXocF0As2b0cwD8wVS9z0NNn6H/MBX7yvq3CbKQW0X95jyb+ujHavPOuWdfRNZeuN32mKzsupatoAPqmh4cNQafOAhPQUApjtntjwIHEnVZKVj1J6/RCqr1MgDQ==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: ZBLXxCUrVIxpjgD6SKx4AQ==
+  learner_created: false
+- name: img.png
+  visible: false
+  learner_created: false
+- name: img_1.png
+  visible: false
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 11 Oct 2022 16:24:59 UTC
+record: -1

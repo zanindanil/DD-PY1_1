@@ -1,0 +1,30 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 29
+    length: 4
+    placeholder_text: 'Foo)  # TODO исправить название переменной'
+    initial_state:
+      length: 42
+      offset: 29
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 9BrEj1EicPReGAqM2mC93A==
+  encrypted_text: Ih3Y7j+1u3AxDmybuSAMV025uhR8mwhtY6pQZ+pkDlsku2XwOp5wlskFIecbMlKXGEVp4jt6zNDPzfmiZ7DABS8gMOvbgiax+JIUCLUUe0hc4UKbn/7G8SE6tpjBIe71mb/vpGyPdGZS/2Lr7Sfcxw==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: x5gQbfnW7qOWaEZFMOSOuQ==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 11 Oct 2022 16:43:10 UTC
+record: -1
