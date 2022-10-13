@@ -1,0 +1,60 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 15
+    placeholder_text: 1begin_with_char
+    initial_state:
+      length: 16
+      offset: 0
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 7BUlY7hqrs4nqPxOGrg0qw==
+  - offset: 88
+    length: 16
+    placeholder_text: one word for var
+    initial_state:
+      length: 16
+      offset: 89
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: YvtJiiEMDMZbt9kU461+GsFkxS56U6JB8ahG5oikf80=
+  - offset: 182
+    length: 22
+    placeholder_text: '# TODO распечатать содержимое первой переменной'
+    initial_state:
+      length: 47
+      offset: 183
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 7Y3Pjp2FGNvylM8nqZdf5cMB3N/TYucajp4Qec2BQR4=
+  - offset: 205
+    length: 23
+    placeholder_text: '# TODO распечатать содержимое второй переменной'
+    initial_state:
+      length: 47
+      offset: 231
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: FjZP0mO7xmWHw/B3NVtcpMKfqoceAKbzmAEr7eVnruY=
+  encrypted_text: sIAsfSj8RfmKDX7+lZjdQi8396VETiJBiyeiXK27P86IhUJwAn/CWaC2UHUdvvDU7su1yZaAISCsCV+j2MJXUMEPLLJo1pqwtVdn8dUV6fvGYoYp4ck5R8u5b7xrwZSvyOCd5V+WQ1DL2iCIJLm58vvHUPRIyHnJVhr6PbSzNTvrXhMF0fyUokaDUw2VAuHwUeKDgFF0Wy8K3bA+DV65tskaPb7j3NjKpHH938/W9L2qx8FKDE2wbCQLD+kZ7hPIjtWxnwEgCxe9UabBzYXqbk7edeDx9jGz71uSrOW9lhSTpYHELtpgWPrQWFaYCazbOuZktKTBpBwiLTyHmDzPNZq70DdSQydw9zWPb/dN6dK/pARka4y/u+zPzSDbCO5qztyhth7sy4KXH3DkogOTXk+L6AqVhY0YoTk6wb49RmtIGzlTfa/E8SJJd4wVe/qwNKeJI3kgEI3IXRaXjfOGAKf/yL4qRr6jSwHiRPaaLDiHYAkDcTWEMnRXxfb7Bif2ZBUp8FC3vXQYsavwWVbxOpnG7/fWntpqdBqcZkl7AUXvsXxmgqyY58dFY1brk3s4sjZNBsUUOt+7LnZTbEkqpg==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: 4K818qhFPtGiOiTcOvcpD3TyTQA4gnqLJODvzxMbkpMKKN89iADc/khWUtlNOBCY
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 11 Oct 2022 16:42:40 UTC
+record: -1

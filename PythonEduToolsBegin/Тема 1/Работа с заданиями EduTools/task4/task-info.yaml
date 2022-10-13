@@ -1,0 +1,37 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 21
+    placeholder_text: '# TODO объявить переменную var, содержащую в себе строку Hello
+      World'
+    initial_state:
+      length: 68
+      offset: 0
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: BGbZPONBtjaN9eQvEs8E897q5lQOzbOZhMeUWcfIKx4=
+  encrypted_text: 41i2NeVtl0Bnro2zE1DpgcVgSUpxwaVdGIDdhbst14TsuCgcs2V7DTLWkrPBh6vOzI98GDIa+Zf31u8o3Y43JJQiDg4oP6mt43mlwbaFJ4CwAeCiN+yDu2LPNPrFIXifyyQqM4UH46qC6SjJwurSlmsWmoiJ9czVRJqp9plLu4E=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: ZBLXxCUrVIxpjgD6SKx4AQ==
+  learner_created: false
+- name: img.png
+  visible: false
+  learner_created: false
+- name: img_1.png
+  visible: false
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 11 Oct 2022 16:28:01 UTC
+record: -1

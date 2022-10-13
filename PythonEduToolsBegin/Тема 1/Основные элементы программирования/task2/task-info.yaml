@@ -1,0 +1,18 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  encrypted_text: 3cJsz5/CaJMbhiIknH3QHb9or+mU2+LR+VDDCGAi4iUUDfWJCsrmuMrNp5gzJTYDuD4P7pXDtVU5JTZgDTs4vfSmMFbt4XcwOgg0s/icDnfZ/Z9hGInZhv34DDXEo2VaC9OKGh8HDTWHUjnwzRr31ArJIx70yLVysjK+GbbpT/t5LaQjQC3wfx1n3//2MTrnY8dLXr1dPI2VbRIwtHDSp8NmYYNWSGnTNaz8VC3NxqgApwhuOhOZ0pBSWakqOnD9+Ml2Of111LYm5LnMPkUJouFEVXav7d5+Vbu5Xw1YfKzdpN5Yykawfx6z2E182xMpX3UsHhPAOdwdWC9mBxNB3iKBb+qzkqd7iC/2YGMRBD+UZWBSY+4NmUgcvGd7u/36IaTof/YOyDnS3bnRzBQTRh2lSAO+htVDTDS7vH/OtK/BrjYaob6p27oest9eTWe2kronOIGt1w6OEWw0kdbSuxI+5fgo6XXs517aOfpYxqr1iaLfdm9VwGkOm++zzlUvaw50kRSTpK02N0lfKKavIg==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: img.png
+  visible: false
+  learner_created: false
+status: Solved
+feedback:
+  time: Tue, 11 Oct 2022 16:37:05 UTC
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,29 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 6
+    placeholder_text: 'sq=4  # TODO добавить отступы до и после оператора присваивания'
+    initial_state:
+      length: 63
+      offset: 0
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: KJdA5UPph/8+zbueGt7I6g==
+  encrypted_text: BN9w+lLzHv1Y2fkD/mYrHdK7qQTB22UjCXFxNJ7ctghXXeZLB/40YLwM1nWLgEq8VjGg+JLCIPxM+lyej9iaocf9ypoEfciiZrpVOX6OXKfff8YLB0Uu15T7u9lbG48+KLM+G+iu2B9ZSrmO75bt7g==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: img.png
+  visible: false
+  learner_created: false
+status: Solved
+feedback:
+  time: Tue, 11 Oct 2022 16:39:41 UTC
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,30 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 53
+    length: 92
+    placeholder_text: 'print = "test"  # TODO исправить название переменной, чтобы
+      команда print продолжила работу'
+    initial_state:
+      length: 91
+      offset: 53
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 0fRESU3rvVyMwMQn61M4Gw==
+  encrypted_text: 2PvlWijZHZzj3Lnqqnf0sDYVFuqHZ8SPZ/0SinUMngGzWfNKq+MTCGdqozoPsqG3lZEx08XuA/BGlv6nGWC7YP6DSO2dM/QBtUuhInTuUP0+1QsQXJORyb5hPEAqpzpUYa9e00htZLaBAGdCmuDOejGO9bAAI5HViDX8B1GYn0OaxjjER9PeagYOcOnpLJl6SmiH5AbLg0L6Frv0K5T1KFnvQNy0uAg43rYXrPpU1Z0kfQukyF4yGRYWbOVs1SX/gao/FDTNKONq3bU0cLBuRO0sKxfcjoF1hmZ2dUY4O+r004XUTmeolgeOzKAt06uuUSGb8CS8FUMSFXnWkKCQRA==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: img.png
+  visible: false
+  learner_created: false
+status: Solved
+feedback:
+  time: Tue, 11 Oct 2022 16:48:13 UTC
+record: -1
+post_submission_on_open: true

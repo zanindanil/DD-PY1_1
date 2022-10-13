@@ -1,0 +1,43 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 14
+    placeholder_text: '# TODO распечатать на отдельной строке слово Hello'
+    initial_state:
+      length: 50
+      offset: 0
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 1saqTXFX7c92mJIxSqfIzA==
+  - offset: 15
+    length: 14
+    placeholder_text: '# TODO распечатать на отдельной строке слово World'
+    initial_state:
+      length: 50
+      offset: 51
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 46QjoL9OQ4qh9Xb6uWFvDA==
+  encrypted_text: MCyKkcm7qcFGeKdGcogskcvATo7bM5uDrb/FGhgx7VKXVK2FwNLs+OZs1C1Hf2o2cZasT6MFZJ/q86+yPNcG5EZoIzbvnVec1nwE5giYDGvnHzw5qcA64jd0/v/Y1JkKfX7wand1DBTDINJwcheNG2zjGHQdzaq5llolD4JNZpksoTPRdqSl5gtXMkbZS/d+/q0BoEaPPoilvtxl1YkHpZ1E0onqIk7LmqTfyC+efBw=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: qqQH8+9i5FqqlViFckk6Jw==
+  learner_created: false
+- name: img.png
+  visible: false
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 11 Oct 2022 16:29:35 UTC
+record: -1

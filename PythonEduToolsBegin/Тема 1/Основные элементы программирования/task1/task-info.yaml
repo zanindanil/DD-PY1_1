@@ -1,0 +1,18 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  encrypted_text: jhDUBklOrt5wBvG7zHltA1tW/P0tk8IkdYuQk5/0L3PO0TIYhpTUsDJrRJW9/2mei4FegwH6Qe08vUFu3U3SXkHKvGtJJ7grjmMs/7f2BUomXIKYHZF+IErR0MygqYjE
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: img.png
+  visible: false
+  learner_created: false
+status: Solved
+feedback:
+  time: Tue, 11 Oct 2022 16:35:12 UTC
+record: -1
+post_submission_on_open: true

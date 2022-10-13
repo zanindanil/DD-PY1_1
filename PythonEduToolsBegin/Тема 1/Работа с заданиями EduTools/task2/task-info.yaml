@@ -1,0 +1,22 @@
+type: output
+files:
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: img.png
+  visible: false
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: ZBLXxCUrVIxpjgD6SKx4AQ==
+  learner_created: false
+- name: main.py
+  visible: true
+  encrypted_text: 2PvlWijZHZzj3Lnqqnf0sD8IY5W0dBj8NfrqqnlV6k4=
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 11 Oct 2022 16:21:33 UTC
+record: -1
